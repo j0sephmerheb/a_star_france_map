@@ -1,6 +1,5 @@
 # makefile for the A start project
 # Joseph Merheb
-# EPITA 2020
 
 OBJ = list.c status.c city.c main.c
 astar : $(OBJ)
